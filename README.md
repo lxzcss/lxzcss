@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Lucas😀
+# Olá!! Eu sou o Lucas😀
 
 - 🔭 Estudante
 - 🌱 Aprendendo C# e PHP
@@ -20,7 +20,7 @@
 </div>
   
   ##
- -Caso precise entrar em contato comigo, pode me achar por aqui:
+ -  Caso precise entrar em contato comigo, pode me achar por aqui:
 <div> 
   <a href="https://www.instagram.com/iamlucxs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasilva589@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
