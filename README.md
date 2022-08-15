@@ -5,6 +5,8 @@
 - 👯 Estou aceitando trabalhos, são todos bem-vindos!! 😁😁
 - 😄 Pronomes: Ele/Dele
 
+##
+
 <div align="inline_box">
   <a href="https://github.com/lxzcss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxzcss&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -18,7 +20,7 @@
 </div>
   
   ##
- 
+ -Caso precise entrar em contato comigo, pode me achar por aqui:
 <div> 
   <a href="https://www.instagram.com/iamlucxs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasilva589@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
