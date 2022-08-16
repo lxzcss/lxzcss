@@ -1,9 +1,9 @@
 # Olá!! Eu sou o Lucas😀
 
-- 🔭 Estudante
-- 🌱 Aprendendo C# e PHP
-- 👯 Estou aceitando trabalhos, são todos bem-vindos!! 😁😁
-- 😄 Pronomes: Ele/Dele
+- 🤓 Estudante
+- 🌠 Aprendendo C# e PHP
+- ❤ Estou aceitando trabalhos, são todos bem-vindos!! 😁😁
+- 👨‍💻 Pronomes: Ele/Dele
 
 ##
 
