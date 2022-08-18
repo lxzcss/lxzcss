@@ -2,7 +2,7 @@
 
 - 🤓 Estudante
 - 🌠 Aprendendo C# e PHP
-- ❤ Estou aceitando trabalhos, são todos bem-vindos!! 😁😁
+- ❤ Estou procurando estágio! 😁😁
 - 👨‍💻 Pronomes: Ele/Dele
 
 ##
