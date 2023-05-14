@@ -1,9 +1,9 @@
 # Olá!! Eu sou o Lucas😀
 
 - 🤓 Estudante
-- 🌠 Aprendendo C# e PHP
-- ❤ Estou procurando estágio! 😁😁
-- 👨‍💻 Pronomes: Ele/Dele
+- 🌠 Estou em constante aprendizado
+- ❤ Estou procurando vagas! 😁😁
+- 👨‍💻 Os bilhões são feitos de centavos.
 
 ##
 
