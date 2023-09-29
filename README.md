@@ -3,7 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="(https://github-readme-streak-stats.herokuapp.com?user=lxzcss&theme=radical&mode=weekly)" />
-<img width=40% align="center" src="(https://global.discourse-cdn.com/nubank/original/3X/4/1/41a7e1549232aa66e48ba612b3af456168b55258.jpeg)" />
+<img width=40% align="center" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomunidade.nubank.com.br%2Ft%2Fj%25C3%25A1-chegou-o-disco-voador%2F205970&psig=AOvVaw1ADPOQUYpYJ6adQwD1qSH9&ust=1696052007422000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjwpMqMz4EDFQAAAAAdAAAAABAD)" />
  </div>
  
  &nbsp;
