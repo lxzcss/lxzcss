@@ -40,11 +40,13 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lxzcss}/count.svg" /></p> 
 <br></div>
 
-<img width=25% align="center" src="https://i.pinimg.com/736x/0f/67/e1/0f67e15eda4d56eb46055771008d1df6.jpg">
+<div align="center">
+<img width=25% src="https://i.pinimg.com/736x/0f/67/e1/0f67e15eda4d56eb46055771008d1df6.jpg">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=222f5b&height=120&section=footer"/>
 
