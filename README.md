@@ -3,7 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="(https://github-readme-streak-stats.herokuapp.com?user=lxzcss&theme=radical&mode=weekly)" />
-<img width=30% src="https://global.discourse-cdn.com/nubank/original/3X/4/1/41a7e1549232aa66e48ba612b3af456168b55258.jpeg"/>
+<img width=30% align="right" src="https://global.discourse-cdn.com/nubank/original/3X/4/1/41a7e1549232aa66e48ba612b3af456168b55258.jpeg"/>
  </div>
  <br><br>
  
