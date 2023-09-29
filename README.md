@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/lxzcss/lxzcss/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd](https://preview.redd.it/kaisa-splash-change-on-the-league-universe-to-tease-the-new-v0-tvfrrnu5y1091.png?auto=webp&s=745e01933267e96f06eaa57cda9ac2971d4e5595)" />
+<img align="center" style="margin-bottom:100px" width=100% src="(https://preview.redd.it/kaisa-splash-change-on-the-league-universe-to-tease-the-new-v0-tvfrrnu5y1091.png?auto=webp&s=745e01933267e96f06eaa57cda9ac2971d4e5595)" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
