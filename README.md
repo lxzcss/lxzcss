@@ -1,7 +1,7 @@
 
 <p align="center">Um doido com um computador. <br><br> Estou estudando e aprimorando meus conhecimentos, atualmente estou buscando uma oportunidade de <strong>estágio</strong> para demonstrar minha competência. Busco me <strong>desenvolver e aprender</strong> para me tornar um ótimo profissional futuramente.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div >
 <img width=55% align="center"  src="(https://github-readme-streak-stats.herokuapp.com?user=lxzcss&theme=radical&mode=weekly)" />
 <img width=40% align="center" src="(https://global.discourse-cdn.com/nubank/original/3X/4/1/41a7e1549232aa66e48ba612b3af456168b55258.jpeg)" />
  </div>
