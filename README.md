@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lxzcss&show_icons=true&count_private=false&hide_border=true&title_color=222f5b&icon_color=5d5d5d&text_color=946b2d&bg_color=0d1117" alt="Lucas Loiola's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxzcss&layout=compact&hide_border=true&title_color=222f5b&text_color=946b2d&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxzcss&layout=compact&hide_border=true&title_color=222f5b&text_color=946b2d&bg_color=0d1117&hide=jupyter%20notebook" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lxzcss&bg_color=000000&color=946b2d&line=222f5b&point=5d5d5d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
