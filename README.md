@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=222f5b&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=946b2d&size=35&center=true&vCenter=true&width=1000&lines=Hey!,+I'm+Lucas;I+am+20+yrs+old;And+I'm+from+Sao+Paulo,+Brazil;Studying+Systems+analysis+and+Development;Welcome!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=946b2d&size=35&center=true&vCenter=true&width=1000&lines=Hey!,+I'm+Lucas,+I+am+20+yrs+old;And+I'm+from+Sao+Paulo,+Brazil;Right+now+I'm+studying+Systems+analysis+and+Development;Welcome!!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lxzcss&show_icons=true&count_private=false&hide_border=true&title_color=222f5b&icon_color=5d5d5d&text_color=946b2d&bg_color=0d1117" alt="Lucas Loiola's github stats" /> 
